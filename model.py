@@ -1,6 +1,6 @@
 # AIM: TEXT MINING and SENTIMENT ANALYSIS of Youtube Videos
 import stanfordnlp
-
+#Making a change
 # train_path = "imdb_tr.csv"
 train_path = "train.csv"  # source data
 test_path = "test/test.csv"  # test data for grade evaluation.
